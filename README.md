@@ -5,12 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Devops
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on Devops projects to streamline Development and Operations.
+- 🌱 I’m currently learning different Devops tools to enhance my skill set.
+- 👯 I’m looking to collaborate on Open to collaborating on Exciting Devops projects.
+- 🤔 I’m looking for help with Exploring solutions.
+- 💬 Ask me about Anything related to Devops, and I'll do my best to share knowledge.
+- 📫 How to reach me: snehatrimukhe11@gmail.com
+- 😄 Pronouns: she
 - ⚡ Fun fact: ...
 
+Feel free to connect and explore the world of Devops tegether!
