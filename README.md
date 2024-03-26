@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Sneha Trimukhe! I'm really passionate about AWS and DevOps. I enjoy working with cloud technology and automating tasks. Always eager to learn and share new ideas.
 
 
 **SnehaTrimukhe/SnehaTrimukhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
